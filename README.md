@@ -50,5 +50,5 @@ A highly motivated Software Engineering Graduate with a profound passion for sol
 ### 🚗 [Car Price ML Predictor](https://github.com/EstiEsti123/car-price-ml-predictor)
 An End-to-End Machine Learning application leveraging data science principles to predict used car values. Built with a Python FastAPI backend and a clean, responsive frontend interface.
 
-### 🎵 Music Playlist Application
+### 🎵 [Music-Playlist-App](https://github.com/EstiEsti123/Music-Playlist-App)
 A full-stack architecture designed for dynamic music playlist management. Features an **Angular** modular frontend for seamless interaction and a robust **C# Web API** backend managing data persistence.
